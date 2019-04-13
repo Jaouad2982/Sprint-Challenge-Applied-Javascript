@@ -4,7 +4,7 @@
 2. What is an event?
 3. What is an event listener?
 4. Why would we convert a NodeList into an Array?
-5. What is a component? 
+5. What is a component?
 
 1.The DOM is  language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document. it is a like tree structure document where each node is an object.
 
@@ -14,4 +14,4 @@
 
 4.we convert a NodeList into an Array to get the benefits of using the array. The arrays methods and what has to offer .
 
-5. a component is a reusable code, set or interface. a code that had some logic in it 
+5. a component is a reusable code, set or interface. a code that had some logic in it. similar to a component in Reactor angular or vue Js
